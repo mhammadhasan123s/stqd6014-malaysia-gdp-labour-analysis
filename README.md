@@ -2,7 +2,6 @@
 
 > **Student:** Mhamad Shhab Aldeen Hasan · P166175  
 > **Institution:** Universiti Kebangsaan Malaysia (UKM)  
-> **Deadline:** 4 January 2026, 11:59 PM
 
 ---
 
@@ -116,23 +115,6 @@ Demonstrates HDF5 group attributes, dataset creation, and NumPy summary statisti
 
 ---
 
-## How to Run
-
-### Requirements
-```
-pip install pandas numpy matplotlib h5py jupyter
-```
-
-### Run all tasks
-```bash
-cd stqd6014-project2
-jupyter lab
-```
-Open each notebook from the `notebooks/` folder and run all cells top to bottom.
-
-> **Note:** All notebooks use relative paths (`data/`, `figures/`, `outputs/`). Run from the repo root.
-
----
 
 
 ## New Skills Demonstrated
